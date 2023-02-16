@@ -1,0 +1,136 @@
+/* 
+version: 1.0.0
+theme Name: SaifulTheme
+author: Saiful Islam
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+  padding: 0;margin: 0;box-sizing: border-box;
+}
+body{
+  background: url(./assents/images/bg.gif) center;
+}
+.con{
+  width: 1020px;
+  margin: 0 auto;
+  padding: 0 20px 0 0;
+}
+.topbar{
+  background: #2d48ab94;
+  height: 30px;
+  line-height: 30px;
+}
+.left{
+}
+.right{
+
+}
+.right p{
+display: inline;
+border-right: 1px solid black;
+padding-right: 15px;
+}
+.right a{
+  padding-left: 10px;
+  
+}
+.logo{
+  height: 100px;
+}
+.logoimg{
+  line-height: 100px;
+}
+.search{
+  padding-top: 37px;
+}
+.social{
+  padding-top: 30px;
+}
+.sleft img{
+  border-right: 1px solid rgb(226, 199, 199);
+  padding: 0 10px;
+}
+.sright{
+  padding: 0 6px 0 6px;
+}
+/* banner  */
+.banner img{
+  width: 100%;
+  border: 1px solid red;
+  padding: 10px;
+}
+/* slider */
+.slider{
+  margin-top: 15px;
+}
+.tab{
+  margin-top: 15px;
+}
+.tvalue{
+  /* padding: 0 0 0 19px; */
+}
+/* uddog  */
+.uddog{
+  width: 60%;
+}
+.uddog ul{
+  
+}
+.uddog ul li{
+  list-style: none;
+  border-bottom: 1px solid green  ;
+}
+.uddog ul li a{
+  text-decoration: none;
+  color: black;
+  font-size: 11px;
+}
+table td{
+  padding: 0 5px;
+}
+.sokol{
+  background-color: green;
+  width : 100%;
+}
+.sokol table td img{
+  border: 2px solid white;
+}
+table{
+  /* margin-top: 15px; */
+  /* padding: 10px; */
+}
+
+
+form select{
+  width: 75%;
+}
+.two{
+  background: green;
+  color: white;
+}
+
+/* wordpress  */
+/* side image  */
+.sideimage{
+  /* margin:15px; */
+  padding: 10px;
+}
+.list{
+  border-bottom:2px solid green ;
+}
+.fm .mtop{
+  padding: 15px;
+}
